@@ -11,7 +11,8 @@ body {
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* No repeating */
     color: #12ca3a; /* Default text color for better contrast */
-     background-size: 1000px 1000px; 
+     /* background-size: 1000px 1000px;  */
+     height: 100%;
    
 } 
 
